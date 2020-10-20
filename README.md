@@ -1,5 +1,15 @@
+**Heuristic hyperparameter optimization of deep learning models for genomic prediction**
+
+__Junjie Han, Cedric Gondro, Kenneth Reid & Juan P. Steibel__
+
+If you find this resource helpful, please cite.
+
+This repository includes the real pig dateset used for DE_DL. To find the code for implementing differential evolution on top of multilayer perceptron and convolutional neural network, please refer to this repository: https://github.com/jun-jieh/DE_DL
+
+
+
 # RealPigData
-This repository includes the real pig dateset used for DE_DL
+This repository includes the real pig dateset used for DE_DL. To find the code for implementation 
 
 
 ## Genotype
