@@ -8,9 +8,6 @@ This repository includes the real pig dateset used for DE_DL. To find the code f
 
 
 
-# RealPigData
-This repository includes the real pig dateset used for DE_DL. To find the code for implementation 
-
 
 ## Genotype
 
