@@ -2,7 +2,9 @@
 
 __Junjie Han, Cedric Gondro, Kenneth Reid & Juan P. Steibel__
 
-If you find this resource helpful, please cite.
+If you find this resource helpful, please cite:
+
+[J Han, C Gondro, K Reid, JP Steibel. 2021. Heuristic hyperparameter optimization of deep learning models for genomic prediction. G3 Genes|Genomes|Genetics](https://academic.oup.com/g3journal/advance-article/doi/10.1093/g3journal/jkab032/6129776/)
 
 This repository includes the real pig dateset used for DE_DL. To find the code for implementing differential evolution on top of multilayer perceptron and convolutional neural network, please refer to this repository: https://github.com/jun-jieh/DE_DL
 
